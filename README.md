@@ -7,7 +7,7 @@ Live site: https://pzacsweeps.github.io/nfl-hub/
 ## Automatic updates (GitHub Actions)
 All times UK.
 - **Stats** (`stats.yml`): Tuesday morning. If every game of the next week is final, the ESPN box scores are pulled (`pipeline/fetch_week.py`), the week is added and the site is rebuilt. Wednesday morning is a retry.
-- **Injuries** (`injuries.yml`): Thursday 19:00, Sunday 09:00 and Sunday 30 minutes before the first kickoff. Official NFL.com report (practice participation and game statuses) plus the CBS Sports injury page (IR / PUP / NFI lists, late downgrades, return weeks), merged by `pipeline/fetch_injuries.py`.
+- **Injuries** (`injuries.yml`): Thursday 22:00, Sunday 09:00 and Sunday 30 minutes before the first kickoff. Official NFL.com report (practice participation and game statuses) plus the CBS Sports injury page (IR / PUP / NFI lists, late downgrades, return weeks), merged by `pipeline/fetch_injuries.py`.
 
 Run either by hand: Actions tab → pick the workflow → **Run workflow** (works from the GitHub mobile app). `Weekly stats update` takes an optional week number to reload one week.
 

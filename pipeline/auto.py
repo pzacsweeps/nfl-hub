@@ -2,7 +2,7 @@
 
     python3 pipeline/auto.py stats      -> is a finished week waiting to be added? (Tuesday mornings)
     python3 pipeline/auto.py injuries   -> which injury slot is due now, if any:
-                                            thu      Thursday 19:00
+                                            thu      Thursday 22:00
                                             sunam    Sunday 09:00 (also saves the first Sunday kickoff)
                                             pregame  Sunday, 30 minutes before the first kickoff
     python3 pipeline/auto.py mark <slot> -> record that a slot ran today
@@ -86,7 +86,7 @@ def main():
         today = lt.date().isoformat()
         wd, hm = lt.weekday(), lt.hour * 60 + lt.minute      # Mon=0 ... Sun=6
         slot, label = None, ""
-        if wd == 3 and 18 * 60 + 45 <= hm < 21 * 60 and done.get("thu") != today:
+        if wd == 3 and 21 * 60 + 45 <= hm < 23 * 60 + 30 and done.get("thu") != today:
             slot, label = "thu", "Thursday evening report"
         elif wd == 6:
             if 8 * 60 + 45 <= hm < 11 * 60 and done.get("sunam") != today:

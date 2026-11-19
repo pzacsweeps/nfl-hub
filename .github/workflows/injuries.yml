@@ -1,11 +1,11 @@
 name: Injury update
 
-# UK times: Thursday 19:00, Sunday 09:00, and Sunday 30 minutes before the first kickoff.
+# UK times: Thursday 22:00, Sunday 09:00, and Sunday 30 minutes before the first kickoff.
 # Each slot has two cron times (for GMT and BST); pipeline/auto.py works in UK time and runs
 # each slot once. The Sunday pre-game check runs every 15 minutes and only acts in its window.
 on:
   schedule:
-    - cron: "50 17,18 * * 4"
+    - cron: "50 20,21 * * 4"
     - cron: "50 7,8 * * 0"
     - cron: "5,20,35,50 11-19 * * 0"
   workflow_dispatch: {}
