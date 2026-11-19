@@ -51,9 +51,11 @@ def known_players():
     for f in os.listdir(os.path.join(HERE, "weeks")):
         if f.startswith("supp_wk"):
             rows += json.load(open(os.path.join(HERE, "weeks", f)))["player_rows"]
+    pal = {a: b for a, b in json.load(open(os.path.join(HERE, "player_aliases.json"))).items() if not a.startswith("_")}
     k = {}
     for r in rows:
-        k[(r["team"], norm(r["name"]))] = (r["name"], r["pos"])
+        nm = pal.get(r["name"], r["name"])
+        k[(r["team"], norm(nm))] = (nm, r["pos"])
     return k
 
 

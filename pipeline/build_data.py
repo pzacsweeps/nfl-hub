@@ -130,6 +130,9 @@ for t in order:
     }
 
 # ---------- Player Log ----------
+PALIAS = {k: v for k, v in json.load(open(os.path.join(HERE, "player_aliases.json"))).items() if not k.startswith("_")}
+for _r in BASE["player_rows"] + [r for _s in SUPP for r in _s["player_rows"]]:
+    _r["name"] = PALIAS.get(_r["name"], _r["name"])
 players = defaultdict(lambda: {"games": []})
 for _r in BASE["player_rows"]:
     p = players[(_r["name"], _r["team"])]
@@ -143,6 +146,39 @@ for _s in SUPP:
             continue
         p["name"], p["pos"], p["team"] = _r["name"], _r["pos"], _r["team"]
         p["games"].append({k: _r[k] for k in ("wk", "opp", "cmp", "patt", "pyds", "ptd", "int", "ratt", "ryds", "rtd", "tgt", "rec", "recyds", "rectd")})
+
+# ---------- one card per player: merge a traded player's stints (same name and position, no week played twice) ----------
+for g_ in players.values():
+    for x in g_["games"]:
+        x["tm"] = g_["team"]
+_by = defaultdict(list)
+for k, p in players.items():
+    _by[(p["name"], p["pos"])].append(k)
+TRADES = []
+for (nm, pos), keys in _by.items():
+    if len(keys) < 2:
+        continue
+    wks = [g["wk"] for k in keys for g in players[k]["games"]]
+    if len(wks) != len(set(wks)):
+        print("same name, overlapping weeks (kept apart):", nm, [k[1] for k in keys])
+        continue
+    games_ = sorted((g for k in keys for g in players[k]["games"]), key=lambda g: g["wk"])
+    stints = []
+    for g in games_:
+        if stints and stints[-1]["team"] == g["tm"]:
+            stints[-1]["to"] = g["wk"]
+        else:
+            stints.append({"team": g["tm"], "from": g["wk"], "to": g["wk"]})
+    cur = stints[-1]["team"]
+    for k in keys:
+        del players[k]
+    players[(nm, cur)] = {"name": nm, "pos": pos, "team": cur, "games": games_, "stints": stints}
+    TRADES.append(f"{nm}: " + " -> ".join(f"{s_['team']} (wk {s_['from']}-{s_['to']})" for s_ in stints))
+for p in players.values():
+    if "stints" not in p:
+        for g in p["games"]:
+            g.pop("tm", None)
+print("merged across teams:", *TRADES, sep="\n  ")
 
 # ---------- Defence vs Position (computed from logs, verified vs sheet) ----------
 allowed = defaultdict(lambda: defaultdict(float))
