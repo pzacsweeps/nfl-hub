@@ -635,7 +635,7 @@ function chart(p){
 }
 /* ---------- player prop check ---------- */
 const PSTATS={
-  QB:[["pyds","Pass yds"],["ptd","Pass TD"],["cmp","Completions"],["patt","Pass attempts"],["int","Interceptions"],["ryds","Rush yds"],["pr","Pass + rush yds"]],
+  QB:[["pyds","Pass yds"],["ptd","Pass TD"],["cmp","Completions"],["patt","Pass attempts"],["int","Interceptions"],["ryds","Rush yds"],["ratt","Rush attempts"],["pr","Pass + rush yds"]],
   RB:[["ryds","Rush yds"],["ratt","Carries"],["rr","Rush + rec yds"],["rec","Receptions"],["recyds","Rec yds"],["td","Anytime TD (rush + rec)"]],
   WR:[["recyds","Rec yds"],["rec","Receptions"],["tgt","Targets"],["rr","Rush + rec yds"],["td","Anytime TD (rush + rec)"]],
 };PSTATS.TE=PSTATS.WR;
@@ -653,7 +653,7 @@ function propPanel(p){
      const vs=p.games.filter(g=>{const rr=D.dvp[g.opp]?.rank[dk];return rr!=null&&Math.abs(rr-r)<=6}).map(g=>pval(g,pp.stat));
      return{r,dk,h:vs.filter(v=>v>line).length,n:vs.length}})():null;
   const lab=PSTATS[p.pos].find(x=>x[0]===pp.stat)[1];
-  return `<div class="panel" id="pp-panel"><div class="panel-h"><h3>Player prop check</h3><span class="sub">pick a stat and the bookie's line · ticks in the game log show each game against it</span></div>
+  return `<div class="panel" id="pp-panel"><div class="panel-h"><h3>Player prop check</h3><span class="sub">pick a stat and the bookie's line · ticks in the game log show each game against it · below: what the defence allowed</span></div>
     <div class="prop-in">
       <div class="field"><label for="pp-stat">Stat</label><select id="pp-stat">${PSTATS[p.pos].map(([k,l])=>`<option value="${k}" ${k===pp.stat?"selected":""}>${l}</option>`).join("")}</select></div>
       <div class="field"><label for="pp-line">Line (over)</label><input id="pp-line" type="number" step="1" min="0.5" inputmode="decimal" value="${line}"></div>
@@ -665,13 +665,36 @@ function propPanel(p){
       <div class="kpi"><span>Average</span><b>${n?fmt(avg,pp.stat==="td"||pp.stat==="ptd"||pp.stat==="int"?"2":"1"):"–"}</b><i>median ${med??"–"}</i></div>
       <div class="kpi"><span>Range</span><b>${n?sorted[0]+"–"+sorted[n-1]:"–"}</b><i>low – high</i></div>
       ${softer?`<div class="kpi"><span>Next: ${ab(ng.opp)} (rank ${softer.r} vs ${p.pos})</span><b>${softer.n?Math.round(softer.h/softer.n*100)+"%":"–"}</b><i>over in ${softer.h}/${softer.n} vs defences ranked ${Math.max(1,softer.r-6)}–${Math.min(32,softer.r+6)}</i></div>`:""}
-    </div></div>`;
+    </div>${defPanel(p,line,lab)}</div>`;
+}
+// what the chosen defence allowed to this position, game by game (the leading player at the position each game)
+function defPanel(p,line,lab){
+  const t=TM[p.team],ng=t.schedule.find(g=>g.wk>D.lastWeek&&g.opp&&g.opp!=="BYE");
+  if(!pp.def||pp.defFor!==PID(p)){pp.def=ng?ng.opp:TEAMS.find(x=>x!==p.team);pp.defFor=PID(p)}
+  const def=pp.def,games={};
+  for(const q of D.players){if(q.pos!==p.pos)continue;
+    for(const g of q.games){if(g.opp!==def)continue;const v=pval(g,pp.stat);const cur=games[g.wk];
+      if(!cur||v>cur.v)games[g.wk]={wk:g.wk,v,name:q.name,team:g.tm||q.team}}}
+  let rows=Object.values(games).sort((a,b)=>a.wk-b.wk);if(pp.last)rows=rows.slice(-pp.last);
+  const n=rows.length,h=rows.filter(r=>r.v>line).length,pct=n?Math.round(h/n*100):null,avg=n?rows.reduce((a,r)=>a+r.v,0)/n:null;
+  const dk=MAINSTAT[p.pos][2],rk1=D.dvp[def]?.rank[dk];
+  const fmtv=v=>Number.isInteger(v)?v:fmt(v);
+  return `<div class="panel-h" style="border-top:1px solid var(--line)"><h3>${ab(def)} defence vs ${p.pos}s</h3><span class="sub">leading ${p.pos} against ${ab(def)} each game · ${esc(lab)} vs your line ${line}</span></div>
+    <div class="prop-in"><div class="field"><label for="pp-def">Defence</label><select id="pp-def">${TEAMS.filter(x=>x!==p.team).map(x=>`<option value="${esc(x)}" ${x===def?"selected":""}>${esc(x)}${ng&&x===ng.opp?" (next opponent)":""}</option>`).join("")}</select></div></div>
+    <div class="kpis">
+      <div class="kpi ${pct==null?"":pct>=60?"good":pct<=40?"bad":""}"><span>Opposing ${p.pos} over ${line}</span><b>${pct??"–"}${pct!=null?"%":""}</b><i>${h}/${n} games vs ${ab(def)}</i></div>
+      <div class="kpi"><span>Average allowed (leading ${p.pos})</span><b>${avg==null?"–":fmt(avg)}</b><i>${ab(def)} rank, ${esc(DV[dk].label)} allowed: ${rk1??"–"} (1 toughest)</i></div>
+    </div>
+    <div class="scroll"><table><thead><tr><th>Wk</th><th>Opponent</th><th>Player</th><th class="r">${esc(lab)}</th><th class="c">vs ${line}</th></tr></thead><tbody>
+    ${rows.slice().reverse().map(r=>`<tr><td class="num">W${r.wk}</td><td>${abT(r.team)}</td><td>${esc(r.name)}</td><td class="r num">${fmtv(r.v)}</td><td class="c ${r.v>line?"hit":"miss"}">${r.v>line?"Over ✓":"Under ✗"}</td></tr>`).join("")||`<tr><td colspan="5" class="empty">No games against ${esc(def)} yet.</td></tr>`}
+    </tbody></table></div>`;
 }
 function bindProp(){
   const st=$("#pp-stat");if(!st)return;
   st.onchange=e=>{pp.stat=e.target.value;pp.line=NaN;renderPlayer()};
   $("#pp-line").onchange=e=>{const v=parseFloat(e.target.value);pp.line=isNaN(v)?NaN:toHalf(v);renderPlayer()};
   $("#pp-last").onchange=e=>{pp.last=+e.target.value;pp.line=NaN;renderPlayer()};
+  $("#pp-def").onchange=e=>{pp.def=e.target.value;renderPlayer()};
 }
 function renderPlayer(){
   plOptions();const p=PMAP[pl.id];const body=$("#pl-body");
@@ -697,7 +720,6 @@ function renderPlayer(){
     <div class="panel"><div class="ph"><div><h3><span class="pos">${p.pos}</span>${esc(p.name)}</h3><div class="muted" style="margin-top:4px">${esc(p.team)} · ${n} game${n===1?"":"s"} logged · ${D.summary[p.team].record}</div>${p.stints?`<div class="muted" style="margin-top:2px">Traded: ${p.stints.map(st=>`${ab(st.team)} wk ${st.from}${st.to!==st.from?"–"+st.to:""}`).join(" → ")} · all games shown</div>`:""}</div>
       <div class="statline">${line.map(([l,v])=>`<div class="kv"><span>${l}</span><span>${v}</span></div>`).join("")}</div></div></div>
     ${ng?`<div class="panel"><div class="panel-h"><h3>Next up: Week ${ng.wk} ${ng.ha==="Away"?"@":"vs"} ${esc(ng.opp)}</h3><span class="sub">${esc(ng.date||"TBD")}${ng.notes?" · "+esc(ng.notes):""} · blue outline = most relevant for a ${p.pos}</span></div><div class="next-opp">${strip(ng.opp)}</div></div>`:""}
-    <div class="panel"><div class="panel-h"><h3>${MAINSTAT[p.pos][1]} by game</h3><span class="sub">bar colour = opponent rank vs ${p.pos} (red tough, green soft) · dashed white line = season average</span></div><div class="chart-wrap">${chart(p)}</div></div>
     ${pp_html}
     <div class="panel log plog"><div class="panel-h"><h3>Game log vs opponent defence</h3><span class="sub">pill = rank (1 toughest, 32 softest) · small number = allowed per game</span></div>
       <div class="scroll"><table><thead>${head1}${head2}</thead><tbody>${games}</tbody><tfoot>${foot}</tfoot></table></div></div>
