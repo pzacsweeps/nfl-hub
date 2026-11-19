@@ -665,7 +665,9 @@ function defPanel(p,line,lab){
       if(!cur||v>cur.v)games[g.wk]={wk:g.wk,v,name:q.name,team:g.tm||q.team}}}
   let rows=Object.values(games).sort((a,b)=>a.wk-b.wk);if(pp.last)rows=rows.slice(-pp.last);
   const n=rows.length,h=rows.filter(r=>r.v>line).length,pct=n?Math.round(h/n*100):null,avg=n?rows.reduce((a,r)=>a+r.v,0)/n:null;
-  const dk=MAINSTAT[p.pos][2],rk1=D.dvp[def]?.rank[dk];
+  const DK={QB:{pyds:"qbpy",cmp:"qbpy",patt:"qbpy",pr:"qbpy",ptd:"qbptd",int:"qbptd",ryds:"qbry",ratt:"qbry"},RB:{ryds:"rbry",ratt:"rbry",rr:"rbry",rec:"rbrecy",recyds:"rbrecy",td:"rbry"},
+    WR:{recyds:"wrry",rec:"wrrec",tgt:"wrrec",rr:"wrry",td:"wrry"},TE:{recyds:"tery",rec:"terec",tgt:"terec",rr:"tery",td:"tery"}};
+  const dk=DK[p.pos][pp.stat]||MAINSTAT[p.pos][2],rk1=D.dvp[def]?.rank[dk];
   const fmtv=v=>Number.isInteger(v)?v:fmt(v);
   return `<div class="panel-h" style="border-top:1px solid var(--line)"><h3>${ab(def)} defence vs ${p.pos}s</h3><span class="sub">leading ${p.pos} against ${ab(def)} each game · ${esc(lab)} vs your line ${line}</span></div>
     <div class="prop-in"><div class="field"><label for="pp-def">Defence</label><select id="pp-def">${TEAMS.filter(x=>x!==p.team).map(x=>`<option value="${esc(x)}" ${x===def?"selected":""}>${esc(x)}${ng&&x===ng.opp?" (next opponent)":""}</option>`).join("")}</select></div></div>
@@ -687,7 +689,8 @@ function bindProp(){
 function renderPlayer(){
   plOptions();const p=PMAP[pl.id];const body=$("#pl-body");
   if(!p){body.innerHTML=`<div class="panel empty">No player matches those filters. Clear the search or pick another team.</div>`;return}
-  const a=playerAgg(p);const hot=new Set([...POSKEY[p.pos],"pts"].concat(p.pos==="QB"?["pass","take"]:p.pos==="RB"?["rush"]:["pass"]));
+  const pp_html=propPanel(p);
+  const a=playerAgg(p);const hot=new Set([...POSKEY[p.pos],...(p.pos==="QB"?["qbry"]:[]),"pts"].concat(p.pos==="QB"?["pass","take"]:p.pos==="RB"?["rush"]:["pass"]));
   const line=p.pos==="QB"?[["Pass yds/G",fmt(a.pyds)],["Pass TD/G",fmt(a.ptd,"2")],["INT/G",fmt(a.int,"2")],["Cmp %",a.patt?fmt(a.cmp/a.patt,"%"):"–"],["Rush yds/G",fmt(a.ryds)]]
     :p.pos==="RB"?[["Rush yds/G",fmt(a.ryds)],["Carries/G",fmt(a.ratt)],["Rec/G",fmt(a.rec)],["Rec yds/G",fmt(a.recyds)],["TD/G",fmt(a.td,"2")]]
     :[["Rec yds/G",fmt(a.recyds)],["Rec/G",fmt(a.rec)],["Targets/G",fmt(a.tgt)],["Catch %",a.tgt?fmt(a.rec/a.tgt,"%"):"–"],["TD/G",fmt(a.td,"2")]];
@@ -703,7 +706,6 @@ function renderPlayer(){
     ${D.dvpCols.map((c,i)=>`<td class="c ${i===0?"sep":""} ${hot.has(c.key)?"hot":""}"><div class="cell2">${rk(dv?.rank[c.key],false)}<small>${dv?fmt(dv.val[c.key],c.key==="qbptd"||c.key==="take"?"2":"1"):"–"}</small></div></td>`).join("")}</tr>`}).join("");
   const n=p.games.length;
   const foot=`<tr><td class="stick">Avg</td><td></td>${cols.map(c=>`<td class="r num">${fmt(p.games.reduce((s,g)=>s+g[c[1]],0)/n)}</td>`).join("")}<td class="c num">${p.games.filter(g=>pval(g,pp.stat)>pp.line).length}/${n}</td>${D.dvpCols.map((c,i)=>{const rs=p.games.map(g=>D.dvp[g.opp]?.rank[c.key]).filter(x=>x!=null);const m=rs.length?rs.reduce((a,b)=>a+b,0)/rs.length:null;return `<td class="c num ${i===0?"sep":""} ${hot.has(c.key)?"hot":""}">${m==null?"–":rk(Math.round(m),false,"Average opponent rank "+m.toFixed(1))}</td>`}).join("")}</tr>`;
-  const pp_html=propPanel(p);
   body.innerHTML=`<div class="view" style="gap:16px">
     <div class="panel"><div class="ph"><div><h3><span class="pos">${p.pos}</span>${esc(p.name)}</h3><div class="muted" style="margin-top:4px">${esc(p.team)} · ${n} game${n===1?"":"s"} logged · ${D.summary[p.team].record}</div>${p.stints?`<div class="muted" style="margin-top:2px">Traded: ${p.stints.map(st=>`${ab(st.team)} wk ${st.from}${st.to!==st.from?"–"+st.to:""}`).join(" → ")} · all games shown</div>`:""}</div>
       <div class="statline">${line.map(([l,v])=>`<div class="kv"><span>${l}</span><span>${v}</span></div>`).join("")}</div></div></div>

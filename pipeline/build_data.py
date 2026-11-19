@@ -187,7 +187,7 @@ for p in players.values():
         d = allowed[g["opp"]]
         pos = p["pos"]
         if pos == "QB":
-            d["qbpy"] += g["pyds"]; d["qbptd"] += g["ptd"]
+            d["qbpy"] += g["pyds"]; d["qbptd"] += g["ptd"]; d["qbry"] += g["ryds"]
         elif pos == "RB":
             d["rbry"] += g["ryds"]; d["rbrecy"] += g["recyds"]
         elif pos == "WR":
@@ -197,7 +197,7 @@ for p in players.values():
 
 DVP = [  # key, label, group
     ("pts", "Pts", "team"), ("pass", "Pass Yds", "team"), ("rush", "Rush Yds", "team"), ("tot", "Total Yds", "team"),
-    ("qbpy", "QB Pass Yds", "QB"), ("qbptd", "QB Pass TD", "QB"),
+    ("qbpy", "QB Pass Yds", "QB"), ("qbptd", "QB Pass TD", "QB"), ("qbry", "QB Rush Yds", "QB"),
     ("rbry", "RB Rush Yds", "RB"), ("rbrecy", "RB Rec Yds", "RB"),
     ("wrry", "WR Rec Yds", "WR"), ("wrrec", "WR Rec", "WR"),
     ("tery", "TE Rec Yds", "TE"), ("terec", "TE Rec", "TE"),
