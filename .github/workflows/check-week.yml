@@ -1,0 +1,17 @@
+name: Check ESPN box scores against a saved week
+
+# Manual test: pulls a week from ESPN and lists differences with the saved file. Writes nothing.
+on:
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "Week to compare"
+        required: true
+        default: "9"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 pipeline/fetch_week.py ${{ github.event.inputs.week }} --check

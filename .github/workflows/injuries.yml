@@ -1,0 +1,48 @@
+name: Injury update
+
+# UK times: Thursday 19:00, Sunday 09:00, and Sunday 30 minutes before the first kickoff.
+# Each slot has two cron times (for GMT and BST); pipeline/auto.py works in UK time and runs
+# each slot once. The Sunday pre-game check runs every 15 minutes and only acts in its window.
+on:
+  schedule:
+    - cron: "50 17,18 * * 4"
+    - cron: "50 7,8 * * 0"
+    - cron: "5,20,35,50 11-19 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hub-data
+  cancel-in-progress: false
+
+jobs:
+  injuries:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Which update is due?
+        id: check
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then echo "due=true" >> $GITHUB_OUTPUT; echo "slot=manual" >> $GITHUB_OUTPUT; echo "label=" >> $GITHUB_OUTPUT;
+          else python3 pipeline/auto.py injuries; fi
+      - name: Pull NFL.com and CBS injury reports, rebuild
+        if: steps.check.outputs.due == 'true'
+        env:
+          INJ_LABEL: ${{ steps.check.outputs.label }}
+        run: |
+          python3 pipeline/build_data.py pipeline/data.json
+          python3 pipeline/fetch_injuries.py
+          python3 pipeline/build_site.py
+          python3 pipeline/auto.py mark ${{ steps.check.outputs.slot }}
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "nfl-hub-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A index.html pipeline/
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Injury update ${{ steps.check.outputs.slot }} $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do git pull --rebase -q && git push && exit 0; sleep 5; done
+          exit 1

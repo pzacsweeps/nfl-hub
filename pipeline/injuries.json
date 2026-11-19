@@ -1,0 +1,4600 @@
+{
+"Buffalo Bills": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Nov. 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Alec Anderson",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Christian Benford",
+"pos": "CB",
+"injury": "Wrist",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Terrel Bernard",
+"pos": "LB",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "starter"
+},
+{
+"player": "Spencer Brown",
+"pos": "T",
+"injury": "Ankle",
+"status": "DOUBTFUL",
+"tier": "starter"
+},
+{
+"player": "Dion Dawkins",
+"pos": "T",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Sam Franklin Jr.",
+"pos": "S",
+"injury": "Shoulder",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Greg Gaines",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Jordan Hancock",
+"pos": "CB",
+"injury": "Hamstring",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Dalton Kincaid",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Connor McGovern",
+"pos": "C",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Ed Oliver",
+"pos": "DE",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "star"
+},
+{
+"player": "Ar'maj Reed-Adams",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "T.J. Sanders",
+"pos": "DE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Tyrell Shavers",
+"pos": "WR",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Josh Palmer",
+"pos": "WR",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "backup"
+},
+{
+"player": "Zane Durant",
+"pos": "DT",
+"injury": "Undisclosed",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Dorian Strong",
+"pos": "CB",
+"injury": "Neck",
+"status": "NFI list",
+"tier": "reserve"
+}
+]
+},
+"Miami Dolphins": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Nov. 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Tucker Addington",
+"pos": "LS",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Kaytron Allen",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Darrell Baker Jr.",
+"pos": "CB",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Chris Bell",
+"pos": "WR",
+"injury": "Knee",
+"status": "DOUBTFUL",
+"tier": "backup"
+},
+{
+"player": "Aaron Brewer",
+"pos": "C",
+"injury": "Concussion",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Malik Herring",
+"pos": "DE",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Will Kacmarek",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Michael Taaffe",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Dante Trader Jr.",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Jared Wayne",
+"pos": "WR",
+"injury": "Quadricep",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "Jaylen Wright",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Trey Moore",
+"pos": "LB",
+"injury": "Ankle",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Malik Willis",
+"pos": "QB",
+"injury": "Abdomen",
+"status": "IR \u00b7 earliest return Wk 14",
+"tier": "star"
+},
+{
+"player": "Ronnie Harrison Jr.",
+"pos": "LB",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Zach Sieler",
+"pos": "DE",
+"injury": "Biceps",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Cole Turner",
+"pos": "TE",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "De'Von Achane",
+"pos": "RB",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "star"
+},
+{
+"player": "Rene Konga",
+"pos": "DE",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"New England Patriots": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Nov. 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Ben Brown",
+"pos": "C",
+"injury": "Knee",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "A.J. Brown",
+"pos": "WR",
+"injury": "Ankle, Knee",
+"status": "QUESTIONABLE",
+"tier": "star"
+},
+{
+"player": "Kevin Byard",
+"pos": "S",
+"injury": "Chest",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Carlton Davis III",
+"pos": "CB",
+"injury": "Knee",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Reggie Gilliam",
+"pos": "FB",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "TreVeyon Henderson",
+"pos": "RB",
+"injury": "Illness",
+"status": "IR \u00b7 earliest return Wk 15 \u00b7 placed this week",
+"tier": "starter"
+},
+{
+"player": "Hunter Henry",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Cameron Latu",
+"pos": "TE",
+"injury": "Back",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Drake Maye",
+"pos": "QB",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Morgan Moses",
+"pos": "T",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Walter Rouse",
+"pos": "T",
+"injury": "Concussion",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Brenden Schooler",
+"pos": "S",
+"injury": "Hamstring",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Rhamondre Stevenson",
+"pos": "RB",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Greg Van Roten",
+"pos": "G",
+"injury": "Hamstring",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Charles Woods",
+"pos": "CB",
+"injury": "Hamstring",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Dell Pettus",
+"pos": "S",
+"injury": "Ankle",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Quintayvious Hutchins",
+"pos": "LB",
+"injury": "Knee",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Khalil Jacobs",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Mike Onwenu",
+"pos": "G",
+"injury": "Ankle",
+"status": "IR \u00b7 eligible to return",
+"tier": "starter"
+},
+{
+"player": "Harold Landry III",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "PUP \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Alijah Vera-Tucker",
+"pos": "G",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "starter"
+},
+{
+"player": "Romeo Doubs",
+"pos": "WR",
+"injury": "Shoulder",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "starter"
+},
+{
+"player": "Myles Montgomery",
+"pos": "RB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Julian Hill",
+"pos": "TE",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"New York Jets": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Nov. 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Jarvis Brownlee Jr.",
+"pos": "CB",
+"injury": "Illness",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Omar Cooper Jr.",
+"pos": "WR",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Adonai Mitchell",
+"pos": "WR",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Joseph Ossai",
+"pos": "DE",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "VJ Payne",
+"pos": "S",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Harrison Phillips",
+"pos": "DT",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Trevin Wallace",
+"pos": "LB",
+"injury": "Groin",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Garrett Wilson",
+"pos": "WR",
+"injury": "Concussion",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Nahshon Wright",
+"pos": "CB",
+"injury": "Back",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Tyler Baron",
+"pos": "DE",
+"injury": "Knee",
+"status": "PUP \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Marcelino McCrary-Ball",
+"pos": "LB",
+"injury": "Ankle",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "David Onyemata",
+"pos": "DT",
+"injury": "Groin",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Anez Cooper",
+"pos": "G",
+"injury": "Shoulder",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Max Mitchell",
+"pos": "T",
+"injury": "Concussion",
+"status": "IR \u00b7 earliest return Wk 14",
+"tier": "backup"
+},
+{
+"player": "T'Vondre Sweat",
+"pos": "DT",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "starter"
+},
+{
+"player": "Francisco Mauigoa",
+"pos": "LB",
+"injury": "Quadriceps",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Braiden McGregor",
+"pos": "DE",
+"injury": "Pectoral",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Kingsley Jonathan",
+"pos": "DE",
+"injury": "Thigh",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Arian Smith",
+"pos": "WR",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Chip Trayanum",
+"pos": "RB",
+"injury": "Neck",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Baltimore Ravens": {
+"title": "Week 10 \u00b7 Monday night \u00b7 final game statuses \u00b7 Mon Nov 16",
+"injuries": [
+{
+"player": "Rasheen Ali",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Rashod Bateman",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Calais Campbell",
+"pos": "DT",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "starter"
+},
+{
+"player": "Kyle Hamilton",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Jaylinn Hawkins",
+"pos": "S",
+"injury": "Knee",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Matthew Hibner",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Olaivavega Ioane",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Adam Randall",
+"pos": "RB",
+"injury": "Neck, Hamstring",
+"status": "QUESTIONABLE \u00b7 returning from IR",
+"tier": "reserve"
+},
+{
+"player": "Ronnie Stanley",
+"pos": "T",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "starter"
+},
+{
+"player": "Nate Wiggins",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Lamar Jackson",
+"pos": "QB",
+"injury": "Thumb",
+"status": "IR \u00b7 earliest return Wk 16",
+"tier": "star"
+},
+{
+"player": "Tyler Huntley",
+"pos": "QB",
+"injury": "Toe",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Bilhal Kone",
+"pos": "CB",
+"injury": "Lower Body",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Tyler Loop",
+"pos": "K",
+"injury": "Groin",
+"status": "IR \u00b7 earliest return Wk 14",
+"tier": "reserve"
+},
+{
+"player": "Ethan Pocic",
+"pos": "C",
+"injury": "Knee",
+"status": "IR \u00b7 eligible to return",
+"tier": "starter"
+},
+{
+"player": "Tavius Robinson",
+"pos": "LB",
+"injury": "Pectoral",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Durham Smythe",
+"pos": "TE",
+"injury": "Achilles",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Jovaughn Gwyn",
+"pos": "C",
+"injury": "Ankle",
+"status": "IR \u00b7 earliest return Wk 14",
+"tier": "backup"
+},
+{
+"player": "Danny Pinter",
+"pos": "G",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Skylar Thompson",
+"pos": "QB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jahquez Robinson",
+"pos": "S",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Cincinnati Bengals": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Jonathan Allen",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Jalen Davis",
+"pos": "CB",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "starter"
+},
+{
+"player": "Kyle Dugger",
+"pos": "S",
+"injury": "Quadricep",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Dylan Fairchild",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "B.J. Hill",
+"pos": "DT",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "backup"
+},
+{
+"player": "Andrei Iosivas",
+"pos": "WR",
+"injury": "Thumb",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "starter"
+},
+{
+"player": "Dexter Lawrence",
+"pos": "DT",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "star"
+},
+{
+"player": "Brian Parker II",
+"pos": "G",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "DJ Turner II",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Ja'Sir Taylor",
+"pos": "CB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Cashius Howell",
+"pos": "DE",
+"injury": "Wrist",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "backup"
+},
+{
+"player": "Erick All",
+"pos": "TE",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Tanner Hudson",
+"pos": "TE",
+"injury": "Pectoral",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Swayze Bozeman",
+"pos": "LB",
+"injury": "Forearm",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+}
+]
+},
+"Cleveland Browns": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Austin Barber",
+"pos": "T",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Denzel Boston",
+"pos": "WR",
+"injury": "Toe",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Michael Burton",
+"pos": "FB",
+"injury": "Calf",
+"status": "IR \u00b7 earliest return Wk 15 \u00b7 placed this week",
+"tier": "reserve"
+},
+{
+"player": "Maliek Collins",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Harold Fannin Jr.",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Ronnie Hickman Jr.",
+"pos": "S",
+"injury": "Concussion",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "Tytus Howard",
+"pos": "T",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Elgton Jenkins",
+"pos": "C",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Donovan McMillon",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Carson Schwesinger",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Denzel Ward",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Quincy Williams",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Joe Royer",
+"pos": "TE",
+"injury": "Personal",
+"status": "NFI list",
+"tier": "reserve"
+},
+{
+"player": "Kalia Davis",
+"pos": "DT",
+"injury": "Quadriceps",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Teven Jenkins",
+"pos": "G",
+"injury": "Back",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "starter"
+},
+{
+"player": "Raheim Sanders",
+"pos": "RB",
+"injury": "Hip",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Damarri Mathis",
+"pos": "CB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jeremiah Owusu-Koramoah",
+"pos": "LB",
+"injury": "Neck",
+"status": "PUP \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Edefuan Ulofoshio",
+"pos": "LB",
+"injury": "Biceps",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Alex Wright",
+"pos": "DE",
+"injury": "Achilles",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Elijah Chatman",
+"pos": "DT",
+"injury": "Quadriceps",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Pittsburgh Steelers": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Brandin Echols",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "DeShon Elliott",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Derrick Harmon",
+"pos": "DT",
+"injury": "Foot",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Cameron Heyward",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Ben Skowronek",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Doneiko Slaughter",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Darnell Washington",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "T.J. Watt",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Pat Freiermuth",
+"pos": "TE",
+"injury": "Illness",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Michael Pittman",
+"pos": "WR",
+"injury": "Foot",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Gennings Dunker",
+"pos": "G",
+"injury": "Knee",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Jack Driscoll",
+"pos": "T",
+"injury": "Undisclosed",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Donte Kent",
+"pos": "CB",
+"injury": "Undisclosed",
+"status": "PUP \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Sebastian Joseph-Day",
+"pos": "DT",
+"injury": "Triceps",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "backup"
+},
+{
+"player": "Roman Wilson",
+"pos": "WR",
+"injury": "Finger",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "starter"
+},
+{
+"player": "Cole Burgess",
+"pos": "WR",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Logan Lee",
+"pos": "DT",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Daequan Hardy",
+"pos": "CB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Houston Texans": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Azeez Al-Shaair",
+"pos": "LB",
+"injury": "Groin, Not injury related - personal matter",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Will Anderson Jr.",
+"pos": "DE",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "star"
+},
+{
+"player": "Reed Blankenship",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Trent Brown",
+"pos": "T",
+"injury": "Wrist, Illness",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Tank Dell",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Blake Fisher",
+"pos": "T",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Marvin Harrison Jr.",
+"pos": "WR",
+"injury": "Hamstring",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "Jacob Hummel",
+"pos": "LB",
+"injury": "Groin",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Danielle Hunter",
+"pos": "DE",
+"injury": "Hamstring",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Brevin Jordan",
+"pos": "TE",
+"injury": "Finger, Foot",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "Woody Marks",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "David Montgomery",
+"pos": "RB",
+"injury": "Groin",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Keylan Rutledge",
+"pos": "G",
+"injury": "Neck, Shoulder",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Jaylin Smith",
+"pos": "CB",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Wyatt Teller",
+"pos": "G",
+"injury": "Illness, Back",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Tommy Togiai",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Braden Smith",
+"pos": "T",
+"injury": "Illness",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Sam Hagen",
+"pos": "T",
+"injury": "Undisclosed",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "British Brooks",
+"pos": "RB",
+"injury": "Hamstring",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Jaylin Noel",
+"pos": "WR",
+"injury": "Toe",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "K.C. Ossai",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jayden Higgins",
+"pos": "WR",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Solomon Byrd",
+"pos": "DE",
+"injury": "Ankle",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Mario Edwards",
+"pos": "DT",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Ali Gaye",
+"pos": "DE",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Dylan Horton",
+"pos": "DE",
+"injury": "Achilles",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "E.J. Speed",
+"pos": "LB",
+"injury": "Quadriceps",
+"status": "PUP \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Graham Mertz",
+"pos": "QB",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Indianapolis Colts": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Mo Alie-Cox",
+"pos": "TE",
+"injury": "Groin",
+"status": "IR \u00b7 earliest return Wk 15 \u00b7 placed this week",
+"tier": "backup"
+},
+{
+"player": "CJ Allen",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Jaylon Carlies",
+"pos": "LB",
+"injury": "Neck",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Akeem Davis-Gaither",
+"pos": "LB",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 15 \u00b7 placed this week",
+"tier": "starter"
+},
+{
+"player": "A.J. Haulcy",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Arden Key",
+"pos": "DE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Will Mallory",
+"pos": "TE",
+"injury": "Hamstring",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Luke Rhodes",
+"pos": "LS",
+"injury": "Hamstring",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "Grover Stewart",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Jonathan Taylor",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Jerry Tillery",
+"pos": "DT",
+"injury": "Calf",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Jalen Travis",
+"pos": "T",
+"injury": "Knee",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Justin Walley",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Charvarius Ward",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Alec Pierce",
+"pos": "WR",
+"injury": "Heel",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "starter"
+},
+{
+"player": "Micheal Clemons",
+"pos": "DE",
+"injury": "Toe",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Cam Taylor-Britt",
+"pos": "CB",
+"injury": "Groin",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "reserve"
+},
+{
+"player": "D.J. Montgomery",
+"pos": "WR",
+"injury": "Abdomen",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Carson Towt",
+"pos": "TE",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Cameron Mitchell",
+"pos": "CB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Jacksonville Jaguars": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Jessie Bates",
+"pos": "S",
+"injury": "Not injury related - resting player",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "Ezra Cleveland",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Branson Combs",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Jordan Davis",
+"pos": "DT",
+"injury": "Not injury related - resting player",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "BJ Green II",
+"pos": "DE",
+"injury": "Forearm",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Robert Hainsey",
+"pos": "C",
+"injury": "Concussion",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Antonio Johnson",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Jakobi Meyers",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Chris Rodriguez Jr.",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Bhayshul Tuten",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Travon Walker",
+"pos": "DE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Zach Durfee",
+"pos": "DE",
+"injury": "Upper Body",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Patrick Mekari",
+"pos": "T",
+"injury": "Back",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "DaVon Hamilton",
+"pos": "DT",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Eric Murray",
+"pos": "S",
+"injury": "Elbow",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Anton Harrison",
+"pos": "T",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Caleb Ransaw",
+"pos": "S",
+"injury": "Knee",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Parker Hughes",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Garrett DiGiorgio",
+"pos": "T",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jared Bartlett",
+"pos": "LB",
+"injury": "Leg",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Sam Mustipher",
+"pos": "C",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Tennessee Titans": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Cody Barton",
+"pos": "LB",
+"injury": "Concussion",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "John Franklin-Myers",
+"pos": "DE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Marcus Harris",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Anthony Hill Jr.",
+"pos": "LB",
+"injury": "Neck",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Jaylon Jones",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "JC Latham",
+"pos": "T",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Tony Pollard",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Peter Skoronski",
+"pos": "G",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 14 \u00b7 placed this week",
+"tier": "starter"
+},
+{
+"player": "Tyjae Spears",
+"pos": "RB",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Carnell Tate",
+"pos": "WR",
+"injury": "Shoulder",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Tommy Townsend",
+"pos": "P",
+"injury": "Knee, Achilles",
+"status": "IR \u00b7 earliest return Wk 14 \u00b7 placed this week",
+"tier": "reserve"
+},
+{
+"player": "Kevin Winston Jr.",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "James Williams",
+"pos": "LB",
+"injury": "Groin",
+"status": "IR \u00b7 earliest return Wk 14",
+"tier": "reserve"
+},
+{
+"player": "Jackson Slater",
+"pos": "G",
+"injury": "Foot",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Fernando Carmona",
+"pos": "G",
+"injury": "Ankle",
+"status": "IR \u00b7 eligible to return",
+"tier": "starter"
+},
+{
+"player": "Jaren Kanak",
+"pos": "TE",
+"injury": "Pectoral",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Tanoh Kpassagnon",
+"pos": "DE",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Milo Eifler",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jaylen Harrell",
+"pos": "DE",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Kendell Brooks",
+"pos": "S",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Denver Broncos": {
+"title": "Bye in Week 10 \u00b7 injured lists + who got hurt in Week 9",
+"injuries": [
+{
+"player": "Brandon Jones",
+"pos": "S",
+"injury": "Hamstring",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Kris Abrams-Draine",
+"pos": "CB",
+"injury": "Ankle",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "backup"
+},
+{
+"player": "Talanoa Hufanga",
+"pos": "S",
+"injury": "Ankle",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Riley Moss",
+"pos": "CB",
+"injury": "Concussion",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Jaylen Waddle",
+"pos": "WR",
+"injury": "Concussion",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Nick Gargiulo",
+"pos": "G",
+"injury": "Knee - ACL",
+"status": "PUP \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Eyioma Uwazurike",
+"pos": "DT",
+"injury": "Shoulder",
+"status": "IR \u00b7 earliest return Wk 14",
+"tier": "backup"
+},
+{
+"player": "Caleb Lohner",
+"pos": "TE",
+"injury": "Lower Body",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Frank Crum",
+"pos": "T",
+"injury": "Undisclosed",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "RJ Harvey",
+"pos": "RB",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "starter"
+},
+{
+"player": "Jonah Elliss",
+"pos": "LB",
+"injury": "Ankle",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "backup"
+},
+{
+"player": "Tyler Badie",
+"pos": "RB",
+"injury": "Thumb",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "backup"
+},
+{
+"player": "Matt Henningsen",
+"pos": "DE",
+"injury": "Achilles",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Michael Deiter",
+"pos": "C",
+"injury": "Quadriceps",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Levelle Bailey",
+"pos": "LB",
+"injury": "Leg",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Kansas City Chiefs": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Jeffrey Bassa",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Mansoor Delane",
+"pos": "CB",
+"injury": "Shoulder",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Justin Fields",
+"pos": "QB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Jaden Hicks",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Travis Kelce",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Patrick Mahomes",
+"pos": "QB",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Jaylon Moore",
+"pos": "T",
+"injury": "Ankle",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Omarr Norman-Lott",
+"pos": "DT",
+"injury": "Knee",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "Jaydn Ott",
+"pos": "RB",
+"injury": "Hamstring",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Rashee Rice",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Kenneth Walker III",
+"pos": "RB",
+"injury": "Groin",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Peter Woods",
+"pos": "DT",
+"injury": "Neck",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Xavier Worthy",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "L'Jarius Sneed",
+"pos": "CB",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "starter"
+},
+{
+"player": "Brashard Smith",
+"pos": "RB",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Josh Simmons",
+"pos": "T",
+"injury": "Back",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "starter"
+},
+{
+"player": "Tyquan Thornton",
+"pos": "WR",
+"injury": "Ankle",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Ethan Downs",
+"pos": "LB",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jeff Caldwell",
+"pos": "WR",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jimmy Holiday",
+"pos": "WR",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Matt Waletzko",
+"pos": "T",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "John Michael Gyllenborg",
+"pos": "TE",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Las Vegas Raiders": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Thomas Booker",
+"pos": "DT",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Foley Fatukasi",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Ian Thomas",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Dont'e Thornton Jr.",
+"pos": "WR",
+"injury": "Back",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Trey Zuhn III",
+"pos": "C",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Patrick Johnson",
+"pos": "DE",
+"injury": "Neck",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "backup"
+},
+{
+"player": "Justin Pickett",
+"pos": "G",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Keyron Crawford",
+"pos": "DE",
+"injury": "Ankle",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Chigozie Anusiem",
+"pos": "CB",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Brennan Jackson",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Los Angeles Chargers": {
+"title": "Week 10 \u00b7 Monday night \u00b7 final game statuses \u00b7 Mon Nov 16",
+"injuries": [
+{
+"player": "Kayode Awosika",
+"pos": "G",
+"injury": "Fibula",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Bud Dupree",
+"pos": "DE",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Justin Eboigbe",
+"pos": "DE",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Alex Harkey",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Tre Harris",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Cam Hart",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Daiyan Henley",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Deane Leonard",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Khalil Mack",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Ladd McConkey",
+"pos": "WR",
+"injury": "Back",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Keaton Mitchell",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "David Njoku",
+"pos": "TE",
+"injury": "Fibula",
+"status": "QUESTIONABLE \u00b7 returning from IR",
+"tier": "starter"
+},
+{
+"player": "Denzel Perryman",
+"pos": "LB",
+"injury": "Pectoral",
+"status": "QUESTIONABLE \u00b7 returning from IR",
+"tier": "reserve"
+},
+{
+"player": "Trey Pipkins",
+"pos": "T",
+"injury": "Not injury related - personal matter, Knee",
+"status": "QUESTIONABLE \u00b7 returning from IR",
+"tier": "reserve"
+},
+{
+"player": "Rodney Shelley",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Branson Taylor",
+"pos": "G",
+"injury": "Ankle",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "Brenen Thompson",
+"pos": "WR",
+"injury": "Hamstring",
+"status": "DOUBTFUL",
+"tier": "backup"
+},
+{
+"player": "Isas Waxter",
+"pos": "CB",
+"injury": "Ankle",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "Kendall Williamson",
+"pos": "S",
+"injury": "Calf",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Isaiah World",
+"pos": "T",
+"injury": "Knee",
+"status": "NFI list",
+"tier": "reserve"
+},
+{
+"player": "Derwin James",
+"pos": "S",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "star"
+},
+{
+"player": "Alec Ingold",
+"pos": "FB",
+"injury": "Shoulder",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Trevor Penning",
+"pos": "T",
+"injury": "Concussion",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Trey Lance",
+"pos": "QB",
+"injury": "Groin",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Rashawn Slater",
+"pos": "T",
+"injury": "Ankle",
+"status": "IR \u00b7 eligible to return",
+"tier": "star"
+},
+{
+"player": "Tyler Biadasz",
+"pos": "C",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+}
+]
+},
+"Dallas Cowboys": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "DaRon Bland",
+"pos": "CB",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Jonathan Bullard",
+"pos": "DT",
+"injury": "Calf",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Alijah Clark",
+"pos": "S",
+"injury": "Illness",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Donovan Ezeiruaku",
+"pos": "LB",
+"injury": "Ankle",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Jake Ferguson",
+"pos": "TE",
+"injury": "Knee, Ankle",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Tyler Goodson",
+"pos": "RB",
+"injury": "Ankle, Knee",
+"status": "IR \u00b7 earliest return Wk 15 \u00b7 placed this week",
+"tier": "backup"
+},
+{
+"player": "Malik Hooker",
+"pos": "S",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "starter"
+},
+{
+"player": "Marist Liufau",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "P.J. Locke",
+"pos": "S",
+"injury": "Concussion",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Von Miller",
+"pos": "LB",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "backup"
+},
+{
+"player": "Jonathan Mingo",
+"pos": "WR",
+"injury": "Ankle",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Devin Moore",
+"pos": "CB",
+"injury": "Hip",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "DeMarvion Overshown",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "George Pickens",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Joey Porter Jr.",
+"pos": "CB",
+"injury": "Ankle, Foot",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Luke Schoonmaker",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Brevyn Spann-Ford",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Juanyeh Thomas",
+"pos": "S",
+"injury": "Hamstring",
+"status": "DOUBTFUL",
+"tier": "reserve"
+},
+{
+"player": "KaVontae Turpin",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Jalen Thompson",
+"pos": "CB",
+"injury": "Hamstring",
+"status": "IR \u00b7 eligible to return",
+"tier": "starter"
+},
+{
+"player": "Malachi Lawrence",
+"pos": "LB",
+"injury": "Ankle",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "backup"
+},
+{
+"player": "Kelvin Gilliam Jr.",
+"pos": "DT",
+"injury": "Triceps",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Princeton Fant",
+"pos": "TE",
+"injury": "Knee - ACL + MCL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Matt Hennessy",
+"pos": "C",
+"injury": "Neck",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Malik Davis",
+"pos": "RB",
+"injury": "Hip",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+}
+]
+},
+"New York Giants": {
+"title": "Week 10 played Thursday \u00b7 Week 11 reports start next week",
+"injuries": [
+{
+"player": "Malik Harrison",
+"pos": "LB",
+"injury": "Groin",
+"status": "Wk 10: Inactive",
+"tier": "backup"
+},
+{
+"player": "Jason Pinnock",
+"pos": "S",
+"injury": "Back",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "backup"
+},
+{
+"player": "Chauncey Golston",
+"pos": "DE",
+"injury": "Neck",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Korie Black",
+"pos": "CB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Tyrone Tracy Jr.",
+"pos": "RB",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "backup"
+},
+{
+"player": "Tremaine Edmunds",
+"pos": "LB",
+"injury": "Chest",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Braxton Berrios",
+"pos": "WR",
+"injury": "Foot",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Thaddeus Dixon",
+"pos": "CB",
+"injury": "Achilles",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Calvin Austin III",
+"pos": "WR",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Rico Payton",
+"pos": "CB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jarrick Bernard-Converse",
+"pos": "CB",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Roy Robertson-Harris",
+"pos": "DE",
+"injury": "Achilles",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Brian Burns",
+"pos": "LB",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "star"
+},
+{
+"player": "Jaxson Dart",
+"pos": "QB",
+"injury": "Knee - Meniscus",
+"status": "IR \u00b7 no return date",
+"tier": "star"
+},
+{
+"player": "Gunner Olszewski",
+"pos": "WR",
+"injury": "Achilles",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Philadelphia Eagles": {
+"title": "Bye in Week 10 \u00b7 injured lists + who got hurt in Week 9",
+"injuries": [
+{
+"player": "Danny Gray",
+"pos": "WR",
+"injury": "Undisclosed",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Jihaad Campbell",
+"pos": "LB",
+"injury": "Hamstring",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Michael Carter II",
+"pos": "CB",
+"injury": "Abdomen",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "backup"
+},
+{
+"player": "Britain Covey",
+"pos": "WR",
+"injury": "Knee",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Jonathan Jones",
+"pos": "CB",
+"injury": "Hamstring",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "backup"
+},
+{
+"player": "Dontayvion Wicks",
+"pos": "WR",
+"injury": "Ankle",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "DeVonta Smith",
+"pos": "WR",
+"injury": "Hamstring",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Zack Baun",
+"pos": "LB",
+"injury": "Back",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Tank Bigsby",
+"pos": "RB",
+"injury": "Abdomen",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Lane Johnson",
+"pos": "T",
+"injury": "Personal",
+"status": "Hurt \u00b7 listed out for Wk 11",
+"tier": "star"
+},
+{
+"player": "Jalen Hurts",
+"pos": "QB",
+"injury": "Calf",
+"status": "IR \u00b7 no return date",
+"tier": "star"
+},
+{
+"player": "Will Shipley",
+"pos": "RB",
+"injury": "Foot",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Tucker Large",
+"pos": "S",
+"injury": "Undisclosed",
+"status": "NFI list",
+"tier": "reserve"
+},
+{
+"player": "Andre' Sam",
+"pos": "S",
+"injury": "Foot",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Johnny Wilson",
+"pos": "WR",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Washington Commanders": {
+"title": "Week 10 played Thursday \u00b7 Week 11 reports start next week",
+"injuries": [
+{
+"player": "Lucas Patrick",
+"pos": "C",
+"injury": "Concussion",
+"status": "Wk 10: Inactive",
+"tier": "reserve"
+},
+{
+"player": "Colson Yankoff",
+"pos": "TE",
+"injury": "Knee",
+"status": "Wk 10: Inactive",
+"tier": "reserve"
+},
+{
+"player": "Dyami Brown",
+"pos": "WR",
+"injury": "Calf",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "backup"
+},
+{
+"player": "Jeremy McNichols",
+"pos": "RB",
+"injury": "Foot",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Javon Kinlaw",
+"pos": "DT",
+"injury": "Knee - MCL",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Daron Payne",
+"pos": "DT",
+"injury": "Foot",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Terry McLaurin",
+"pos": "WR",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Javontae Jean-Baptiste",
+"pos": "LB",
+"injury": "Pectoral",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Jacory Croskey-Merritt",
+"pos": "RB",
+"injury": "Groin",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "starter"
+},
+{
+"player": "Jaylin Lane",
+"pos": "WR",
+"injury": "Ankle",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Laremy Tunsil",
+"pos": "T",
+"injury": "Triceps",
+"status": "IR \u00b7 earliest return Wk 15",
+"tier": "star"
+},
+{
+"player": "Leo Chenal",
+"pos": "LB",
+"injury": "Neck",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+}
+]
+},
+"Chicago Bears": {
+"title": "Bye in Week 10 \u00b7 injured lists + who got hurt in Week 9",
+"injuries": [
+{
+"player": "Tyrique Stevenson",
+"pos": "CB",
+"injury": "Hand",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Kyle Monangai",
+"pos": "RB",
+"injury": "Toe",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Malik Muhammad",
+"pos": "CB",
+"injury": "Toe",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Luther Burden III",
+"pos": "WR",
+"injury": "Concussion",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Tony Fields II",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Hayden Large",
+"pos": "TE",
+"injury": "Undisclosed",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Zavier Scott",
+"pos": "RB",
+"injury": "Wrist",
+"status": "IR \u00b7 earliest return Wk 14",
+"tier": "reserve"
+},
+{
+"player": "Kentavius Street",
+"pos": "DE",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Braxton Jones",
+"pos": "T",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Cole Kmet",
+"pos": "TE",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Dayo Odeyingbo",
+"pos": "DE",
+"injury": "Quadriceps",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "starter"
+},
+{
+"player": "Dallis Flowers",
+"pos": "CB",
+"injury": "Leg",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Nikola Kalinic",
+"pos": "TE",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Coby Bryant",
+"pos": "CB",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 15",
+"tier": "reserve"
+},
+{
+"player": "Brittain Brown",
+"pos": "RB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Nephi Sewell",
+"pos": "LB",
+"injury": "Concussion",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Ruben Hyppolite II",
+"pos": "LB",
+"injury": "Shoulder",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Detroit Lions": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Brian Branch",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Jared Goff",
+"pos": "QB",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Kerby Joseph",
+"pos": "S",
+"injury": "Knee",
+"status": "OUT",
+"tier": "star"
+},
+{
+"player": "Cade Mays",
+"pos": "C",
+"injury": "Ankle",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "D.J. Reed",
+"pos": "CB",
+"injury": "Hip",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Jacob Saylors",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Amon-Ra St. Brown",
+"pos": "WR",
+"injury": "Rib",
+"status": "QUESTIONABLE",
+"tier": "star"
+},
+{
+"player": "Sione Vaki",
+"pos": "RB",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "DJ Wonnum",
+"pos": "DE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Giovanni Manu",
+"pos": "T",
+"injury": "Knee",
+"status": "NFI list",
+"tier": "reserve"
+},
+{
+"player": "Thomas Harper",
+"pos": "S",
+"injury": "Ankle",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Jack Campbell",
+"pos": "LB",
+"injury": "Neck",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "starter"
+},
+{
+"player": "Jimmy Rolder",
+"pos": "LB",
+"injury": "Hamstring",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Isiah Pacheco",
+"pos": "RB",
+"injury": "Back",
+"status": "IR \u00b7 earliest return Wk 16",
+"tier": "starter"
+},
+{
+"player": "Devin White",
+"pos": "LB",
+"injury": "Forearm",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Ben Bartch",
+"pos": "T",
+"injury": "Foot",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Tom Kennedy",
+"pos": "WR",
+"injury": "Knee - MCL",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Kendrick Law",
+"pos": "WR",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Damone Clark",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Payton Turner",
+"pos": "DE",
+"injury": "Back",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Avonte Maddox",
+"pos": "S",
+"injury": "Foot",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+}
+]
+},
+"Green Bay Packers": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Aaron Banks",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Chris Brooks",
+"pos": "RB",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Javon Bullard",
+"pos": "S",
+"injury": "Ankle, Knee",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Zaire Franklin",
+"pos": "LB",
+"injury": "Shin",
+"status": "DOUBTFUL",
+"tier": "starter"
+},
+{
+"player": "Travis Glover",
+"pos": "G",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Ty'Ron Hopper",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Josh Jacobs",
+"pos": "RB",
+"injury": "Finger",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Xavier McKinney",
+"pos": "S",
+"injury": "Foot",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Bo Melton",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Skyy Moore",
+"pos": "WR",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Micah Parsons",
+"pos": "LB",
+"injury": "Knee, Illness",
+"status": "OUT",
+"tier": "star"
+},
+{
+"player": "Sean Rhyan",
+"pos": "C",
+"injury": "Ankle",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Trey Smack",
+"pos": "K",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Lukas Van Ness",
+"pos": "LB",
+"injury": "Back",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Josh Whyle",
+"pos": "TE",
+"injury": "Concussion",
+"status": "IR \u00b7 earliest return Wk 15 \u00b7 placed this week",
+"tier": "reserve"
+},
+{
+"player": "Savion Williams",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Kevin Zeitler",
+"pos": "G",
+"injury": "Ankle, Triceps",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "McCallan Castles",
+"pos": "TE",
+"injury": "Undisclosed",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Warren Brinson",
+"pos": "DT",
+"injury": "Calf",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Collin Oliver",
+"pos": "LB",
+"injury": "Achilles",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Jacob Monk",
+"pos": "G",
+"injury": "Quadriceps",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "starter"
+},
+{
+"player": "Luke Musgrave",
+"pos": "TE",
+"injury": "Neck",
+"status": "PUP \u00b7 earliest return Wk 12",
+"tier": "reserve"
+},
+{
+"player": "Javon Hargrave",
+"pos": "DT",
+"injury": "Achilles",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Jonathan Ford",
+"pos": "DT",
+"injury": "Calf",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Edgerrin Cooper",
+"pos": "LB",
+"injury": "Achilles",
+"status": "IR \u00b7 no return date",
+"tier": "star"
+},
+{
+"player": "Johnathan Baldwin",
+"pos": "S",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Zach Bako-Bewele",
+"pos": "G",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Thomas Yassmin",
+"pos": "TE",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jayden Reed",
+"pos": "WR",
+"injury": "Neck",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+}
+]
+},
+"Minnesota Vikings": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Jordan Addison",
+"pos": "WR",
+"injury": "Thumb",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Blake Cashman",
+"pos": "LB",
+"injury": "Concussion",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Christian Darrisaw",
+"pos": "T",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "star"
+},
+{
+"player": "T.J. Hockenson",
+"pos": "TE",
+"injury": "Wrist, Chest",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Tyrion Ingram-Dawkins",
+"pos": "DT",
+"injury": "Ankle",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Theo Jackson",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Jauan Jennings",
+"pos": "WR",
+"injury": "Calf",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Josh Metellus",
+"pos": "S",
+"injury": "Shoulder",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Kyler Murray",
+"pos": "QB",
+"injury": "Hamstring",
+"status": "OUT",
+"tier": "star"
+},
+{
+"player": "Harrison Smith",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Kyle Van Noy",
+"pos": "LB",
+"injury": "Calf",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Jay Ward",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Carson Wentz",
+"pos": "QB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Nick Samac",
+"pos": "C",
+"injury": "Knee",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Demond Claiborne",
+"pos": "RB",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "reserve"
+},
+{
+"player": "Donovan Jackson",
+"pos": "G",
+"injury": "Knee - Meniscus",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Josh Oliver",
+"pos": "TE",
+"injury": "Biceps",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Jamal Adams",
+"pos": "LB",
+"injury": "Quadriceps",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Tyler Batty",
+"pos": "LB",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Atlanta Falcons": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Zachariah Branch",
+"pos": "WR",
+"injury": "Hamstring",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Kendal Daniels",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Divine Deablo",
+"pos": "LB",
+"injury": "Forearm",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Gervon Dexter Sr.",
+"pos": "DT",
+"injury": "Illness",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Jake Matthews",
+"pos": "T",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Liam McCullough",
+"pos": "LS",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "reserve"
+},
+{
+"player": "James Pearce Jr.",
+"pos": "DE",
+"injury": "Back",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Za'Darius Smith",
+"pos": "DE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Jawaan Taylor",
+"pos": "T",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Cameron Thomas",
+"pos": "DE",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Josh Woods",
+"pos": "LB",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Brian Robinson Jr.",
+"pos": "RB",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 14",
+"tier": "reserve"
+},
+{
+"player": "JD Bertrand",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Samson Ebukam",
+"pos": "DE",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 14",
+"tier": "starter"
+},
+{
+"player": "Anterio Thompson",
+"pos": "DT",
+"injury": "Undisclosed",
+"status": "NFI list",
+"tier": "reserve"
+},
+{
+"player": "Michael Jerrell",
+"pos": "T",
+"injury": "Biceps",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "backup"
+},
+{
+"player": "Jalon Walker",
+"pos": "LB",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "DeAngelo Malone",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "PUP \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Storm Norton",
+"pos": "T",
+"injury": "Foot",
+"status": "PUP \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Da'Shawn Hand",
+"pos": "DE",
+"injury": "Quadriceps",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Trey Sermon",
+"pos": "RB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Carolina Panthers": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Jonathon Brooks",
+"pos": "RB",
+"injury": "Groin",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Brady Christensen",
+"pos": "G",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 11 \u00b7 placed this week",
+"tier": "backup"
+},
+{
+"player": "Trevor Etienne",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Chuba Hubbard",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Lee Hunter",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Mike Jackson",
+"pos": "CB",
+"injury": "Groin",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "starter"
+},
+{
+"player": "Will Lee III",
+"pos": "CB",
+"injury": "Hamstring",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Xavier Legette",
+"pos": "WR",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Damien Lewis",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Bobby Okereke",
+"pos": "LB",
+"injury": "Foot",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Jaelan Phillips",
+"pos": "LB",
+"injury": "Hamstring",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Torricelli Simpkins III",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Ikem Ekwonu",
+"pos": "T",
+"injury": "Knee",
+"status": "PUP \u00b7 eligible to return",
+"tier": "starter"
+},
+{
+"player": "Akayleb Evans",
+"pos": "CB",
+"injury": "Triceps",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "backup"
+},
+{
+"player": "Taylor Moton",
+"pos": "T",
+"injury": "Lower Leg",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Thomas Incoom",
+"pos": "LB",
+"injury": "Calf",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "backup"
+},
+{
+"player": "Cam Jackson",
+"pos": "DT",
+"injury": "Shoulder",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Chris Brazzell II",
+"pos": "WR",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Nic Scourton",
+"pos": "LB",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jaycee Horn",
+"pos": "CB",
+"injury": "Quadriceps",
+"status": "IR \u00b7 eligible to return",
+"tier": "star"
+}
+]
+},
+"New Orleans Saints": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Kelvin Banks Jr.",
+"pos": "T",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "CJ Donaldson",
+"pos": "RB",
+"injury": "Shoulder",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "David Edwards",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Martin Emerson",
+"pos": "CB",
+"injury": "Shin",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Travis Etienne",
+"pos": "RB",
+"injury": "Hamstring",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Noah Fant",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Taliese Fuaga",
+"pos": "T",
+"injury": "Knee",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Alvin Kamara",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Erik McCoy",
+"pos": "C",
+"injury": "Biceps",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Christen Miller",
+"pos": "DT",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 14 \u00b7 placed this week",
+"tier": "backup"
+},
+{
+"player": "Asim Richards",
+"pos": "T",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Quincy Riley",
+"pos": "CB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Mason Tipton",
+"pos": "WR",
+"injury": "Leg",
+"status": "PUP \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Ty Chandler",
+"pos": "RB",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Nick Saldiveri",
+"pos": "G",
+"injury": "Knee",
+"status": "PUP \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Dillon Radunz",
+"pos": "T",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Rejzohn Wright",
+"pos": "CB",
+"injury": "Hip",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Moliki Matavao",
+"pos": "TE",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Bryan Bresee",
+"pos": "DT",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+}
+]
+},
+"Tampa Bay Buccaneers": {
+"title": "Bye in Week 10 \u00b7 injured lists + who got hurt in Week 9",
+"injuries": [
+{
+"player": "YaYa Diaby",
+"pos": "LB",
+"injury": "Knee - MCL",
+"status": "Hurt \u00b7 listed doubtful for Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Jalen McMillan",
+"pos": "WR",
+"injury": "Knee - PCL",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "starter"
+},
+{
+"player": "Antoine Winfield Jr.",
+"pos": "S",
+"injury": "Ankle",
+"status": "Hurt \u00b7 listed questionable for Wk 11",
+"tier": "starter"
+},
+{
+"player": "Josh Hayes",
+"pos": "CB",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Christian Rozeboom",
+"pos": "LB",
+"injury": "Finger",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "starter"
+},
+{
+"player": "Mohamed Kamara",
+"pos": "LB",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Arizona Cardinals": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Budda Baker",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Zachary Carter",
+"pos": "DT",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 11",
+"tier": "reserve"
+},
+{
+"player": "Hjalte Froholdt",
+"pos": "C",
+"injury": "Concussion",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Jon Gaines II",
+"pos": "G",
+"injury": "Ankle",
+"status": "OUT",
+"tier": "backup"
+},
+{
+"player": "Bam Knight",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Hunter Long",
+"pos": "TE",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Roy Lopez",
+"pos": "DT",
+"injury": "Toe, Ankle",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Max Melton",
+"pos": "CB",
+"injury": "Knee, Hand",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Darius Robinson",
+"pos": "DT",
+"injury": "Wrist",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Isaac Seumalo",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Dante Stills",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Josh Sweat",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Jayden Williams",
+"pos": "T",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Mack Wilson",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Andrew Wingard",
+"pos": "S",
+"injury": "Groin",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Michael Wilson",
+"pos": "WR",
+"injury": "Neck",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Gardner Minshew",
+"pos": "QB",
+"injury": "Elbow",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Tip Reiman",
+"pos": "TE",
+"injury": "Ankle",
+"status": "PUP \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Kendrick Bourne",
+"pos": "WR",
+"injury": "Lower Leg",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "James Conner",
+"pos": "RB",
+"injury": "Foot",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Jeremiyah Love",
+"pos": "RB",
+"injury": "Ankle",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "starter"
+},
+{
+"player": "Jalen Brooks",
+"pos": "WR",
+"injury": "Wrist",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Joey Blount",
+"pos": "S",
+"injury": "Neck",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Paris Johnson Jr.",
+"pos": "T",
+"injury": "Biceps",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Chase Bisontis",
+"pos": "T",
+"injury": "Knee - MCL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Kaleb Proctor",
+"pos": "DT",
+"injury": "Knee - Meniscus",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Will Johnson",
+"pos": "CB",
+"injury": "Neck",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Trey Benson",
+"pos": "RB",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"Los Angeles Rams": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Davis Allen",
+"pos": "TE",
+"injury": "Oblique",
+"status": "QUESTIONABLE",
+"tier": "backup"
+},
+{
+"player": "Steve Avila",
+"pos": "G",
+"injury": "Hamstring",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Joe Cardona",
+"pos": "LS",
+"injury": "Ankle",
+"status": "QUESTIONABLE",
+"tier": "reserve"
+},
+{
+"player": "Kam Curl",
+"pos": "S",
+"injury": "Toe",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Aaron Donald",
+"pos": "DT",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "star"
+},
+{
+"player": "Terrance Ferguson",
+"pos": "TE",
+"injury": "Ankle, Hamstring",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "backup"
+},
+{
+"player": "Braden Fiske",
+"pos": "DT",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "backup"
+},
+{
+"player": "Myles Garrett",
+"pos": "LB",
+"injury": "Knee, Not injury related - resting player",
+"status": "QUESTIONABLE",
+"tier": "star"
+},
+{
+"player": "Tyler Higbee",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Trent McDuffie",
+"pos": "CB",
+"injury": "Back",
+"status": "QUESTIONABLE",
+"tier": "star"
+},
+{
+"player": "Puka Nacua",
+"pos": "WR",
+"injury": "Knee - MCL",
+"status": "IR \u00b7 earliest return Wk 15 \u00b7 placed this week",
+"tier": "star"
+},
+{
+"player": "Colby Parkinson",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Matthew Stafford",
+"pos": "QB",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Byron Young",
+"pos": "LB",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "starter"
+},
+{
+"player": "Jordan Whittington",
+"pos": "WR",
+"injury": "Back",
+"status": "IR \u00b7 earliest return Wk 15",
+"tier": "starter"
+},
+{
+"player": "Justin Dedich",
+"pos": "T",
+"injury": "Undisclosed",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Jaylen Watson",
+"pos": "CB",
+"injury": "Shoulder",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Dean Connors",
+"pos": "RB",
+"injury": "Hand",
+"status": "IR \u00b7 earliest return Wk 14",
+"tier": "reserve"
+},
+{
+"player": "Kobie Turner",
+"pos": "DE",
+"injury": "Groin",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "star"
+},
+{
+"player": "Davante Adams",
+"pos": "WR",
+"injury": "Hamstring",
+"status": "IR \u00b7 earliest return Wk 12",
+"tier": "star"
+},
+{
+"player": "Poona Ford",
+"pos": "DT",
+"injury": "Triceps",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Blake Grupe",
+"pos": "K",
+"injury": "Knee - ACL",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Matthew Caldwell",
+"pos": "QB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Eddie Walls III",
+"pos": "LB",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Daniel Rickert",
+"pos": "LB",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+},
+"San Francisco 49ers": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "Mike Evans",
+"pos": "WR",
+"injury": "Achilles",
+"status": "OUT",
+"tier": "star"
+},
+{
+"player": "Renardo Green",
+"pos": "CB",
+"injury": "Back",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Dre Greenlaw",
+"pos": "LB",
+"injury": "Knee",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Nate Hobbs",
+"pos": "CB",
+"injury": "Groin",
+"status": "IR \u00b7 earliest return Wk 11 \u00b7 placed this week",
+"tier": "reserve"
+},
+{
+"player": "Deommodore Lenoir",
+"pos": "CB",
+"injury": "Foot",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "Christian McCaffrey",
+"pos": "RB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Siran Neal",
+"pos": "S",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Demarcus Robinson",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Deebo Samuel Sr.",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "star"
+},
+{
+"player": "Upton Stout",
+"pos": "CB",
+"injury": "Shoulder, Neck",
+"status": "QUESTIONABLE",
+"tier": "starter"
+},
+{
+"player": "C.J. West",
+"pos": "DT",
+"injury": "Knee",
+"status": "IR \u00b7 earliest return Wk 11 \u00b7 placed this week",
+"tier": "starter"
+},
+{
+"player": "Trent Williams",
+"pos": "T",
+"injury": "Shoulder",
+"status": "QUESTIONABLE",
+"tier": "star"
+},
+{
+"player": "Gracen Halton",
+"pos": "DT",
+"injury": "Ankle",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Isaac Guerendo",
+"pos": "RB",
+"injury": "Pectoral",
+"status": "PUP \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Nick Martin",
+"pos": "LB",
+"injury": "Hamstring",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Austen Pleasants",
+"pos": "T",
+"injury": "Knee",
+"status": "IR \u00b7 eligible to return",
+"tier": "reserve"
+},
+{
+"player": "Christian Kirk",
+"pos": "WR",
+"injury": "Knee - Meniscus",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "backup"
+},
+{
+"player": "De'Zhaun Stribling",
+"pos": "WR",
+"injury": "Ankle",
+"status": "IR \u00b7 earliest return Wk 13",
+"tier": "starter"
+},
+{
+"player": "Andrew Farmer",
+"pos": "DE",
+"injury": "Back",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Darrick Forrest",
+"pos": "S",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Nick Zakelj",
+"pos": "T",
+"injury": "Undisclosed",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jake Tonges",
+"pos": "TE",
+"injury": "Knee - MCL",
+"status": "IR \u00b7 no return date",
+"tier": "backup"
+},
+{
+"player": "Alfred Collins",
+"pos": "DT",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+},
+{
+"player": "Mikail Kamara",
+"pos": "DE",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Sam Okuayinonu",
+"pos": "DT",
+"injury": "Foot",
+"status": "IR \u00b7 earliest return Wk 15",
+"tier": "reserve"
+},
+{
+"player": "Ricky Pearsall",
+"pos": "WR",
+"injury": "Knee - PCL",
+"status": "IR \u00b7 no return date",
+"tier": "starter"
+}
+]
+},
+"Seattle Seahawks": {
+"title": "Week 10 \u00b7 final game statuses + Saturday moves \u00b7 Sun Nov 15 \u00b7 inactives 90 min before kickoff",
+"injuries": [
+{
+"player": "AJ Barner",
+"pos": "TE",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Anthony Bradford",
+"pos": "G",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Charles Cross",
+"pos": "T",
+"injury": "Ankle",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Sam Darnold",
+"pos": "QB",
+"injury": "Ribs, Quadricep",
+"status": "OUT",
+"tier": "star"
+},
+{
+"player": "Derick Hall",
+"pos": "LB",
+"injury": null,
+"status": "No designation \u00b7 DNP Fri (not injury-related or rest)",
+"tier": "starter"
+},
+{
+"player": "Drew Lock",
+"pos": "QB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Quenton Nelson",
+"pos": "G",
+"injury": "Knee",
+"status": "OUT",
+"tier": "reserve"
+},
+{
+"player": "Uchenna Nwosu",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Patrick O'Connell",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Connor O'Toole",
+"pos": "LB",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Brandon Pili",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "backup"
+},
+{
+"player": "Jarran Reed",
+"pos": "DT",
+"injury": null,
+"status": "No designation",
+"tier": "reserve"
+},
+{
+"player": "Rashid Shaheed",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Jaxon Smith-Njigba",
+"pos": "WR",
+"injury": null,
+"status": "No designation",
+"tier": "starter"
+},
+{
+"player": "Leonard Williams",
+"pos": "DT",
+"injury": "Stinger",
+"status": "OUT",
+"tier": "starter"
+},
+{
+"player": "Julian Neal",
+"pos": "CB",
+"injury": "Hamstring",
+"status": "IR \u00b7 eligible to return",
+"tier": "backup"
+},
+{
+"player": "Elijah Arroyo",
+"pos": "TE",
+"injury": "Shoulder",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Jake Bobo",
+"pos": "WR",
+"injury": "Knee",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Robbie Ouzts",
+"pos": "RB",
+"injury": "Neck",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Bud Clark",
+"pos": "S",
+"injury": "Ankle",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+},
+{
+"player": "Mason Richman",
+"pos": "G",
+"injury": "Leg",
+"status": "IR \u00b7 no return date",
+"tier": "reserve"
+}
+]
+}
+}
