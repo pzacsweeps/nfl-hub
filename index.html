@@ -473,7 +473,7 @@ const TIERS={star:["Star",3],starter:["Starter",2],backup:["2nd string",1],reser
 const tierChip=k=>{const t=TIERS[k]||TIERS.reserve;return `<span class="tier t-${k||"reserve"}">${t[0]}</span>`};
 const INJF=[["game","Game status (Out · Doubtful · Questionable · Hurt)",c=>c<=2],["all","All",()=>true],["out","Out",c=>c===0],["q","Questionable / Doubtful",c=>c===1||c===2],["ir","IR / PUP / other lists",c=>c===3],["pr","Practice & earlier reports",c=>c===4]];
 const inj={team:"",f:"game",q:""};
-{const n=D.teams.reduce((a,t)=>a+t.injuries.filter(x=>stClass(x.status)[1]<=2).length,0); if(n<15) inj.f="all";}
+{const n=D.teams.reduce((a,t)=>a+t.injuries.filter(x=>{const c=stClass(x.status);return c[1]<=2&&c[0]!=="hurt"}).length,0); if(n<60) inj.f="all";}
 teamOptions($("#inj-team"),"All teams");
 $("#inj-filter").innerHTML=INJF.map(([k,l])=>`<button data-f="${k}" aria-pressed="false">${l}</button>`).join("");
 function renderInjuries(){
