@@ -658,7 +658,7 @@ function propPanel(p){
       <div class="field"><label for="pp-stat">Stat</label><select id="pp-stat">${PSTATS[p.pos].map(([k,l])=>`<option value="${k}" ${k===pp.stat?"selected":""}>${l}</option>`).join("")}</select></div>
       <div class="field"><label for="pp-line">Line (over)</label><input id="pp-line" type="number" step="1" inputmode="decimal" value="${line}"></div>
       <div class="field"><label for="pp-last">Games</label><select id="pp-last"><option value="0" ${!pp.last?"selected":""}>Whole season</option><option value="5" ${pp.last===5?"selected":""}>Last 5</option><option value="3" ${pp.last===3?"selected":""}>Last 3</option></select></div>
-      <p class="hint">Lines are snapped to .5 so there are no pushes. Default line = average over the chosen games.</p>
+      <p class="hint">Lines are snapped to .5 so there are no pushes. Default line sits at the average over the chosen games (rounded to the nearest .5).</p>
     </div>
     <div class="kpis">
       <div class="kpi ${pct==null?"":pct>=60?"good":pct<=40?"bad":""}"><span>Over ${line} ${esc(lab)}</span><b>${pct??"–"}${pct!=null?"%":""}</b><i>${hits}/${n} games</i></div>
