@@ -105,7 +105,7 @@ def main():
                     st["sunday"] = sd; save(st)
                 if sd.get("firstKick"):
                     k = datetime.strptime(sd["firstKick"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-                    if k - timedelta(minutes=50) <= t < k - timedelta(minutes=5):
+                    if k - timedelta(minutes=75) <= t < k - timedelta(minutes=5):
                         slot, label = "pregame", f"pre-game, first kickoff {k.astimezone(LON):%H:%M}"
                     else:
                         print(f"pre-game not due (first kickoff {k.astimezone(LON):%H:%M} UK)")
