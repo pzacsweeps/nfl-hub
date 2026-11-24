@@ -3,6 +3,10 @@
 "name": "Calais Campbell",
 "pos": null
 },
+"11394": {
+"name": "Josh Johnson",
+"pos": "QB"
+},
 "12483": {
 "name": "Matthew Stafford",
 "pos": "QB"
@@ -99,6 +103,10 @@
 "name": "Jadeveon Clowney",
 "pos": null
 },
+"16737": {
+"name": "Mike Evans",
+"pos": "WR"
+},
 "16771": {
 "name": "Morgan Moses",
 "pos": null
@@ -130,6 +138,10 @@
 "2531358": {
 "name": "Chris Manhertz",
 "pos": "TE"
+},
+"2566045": {
+"name": "Luke Rhodes",
+"pos": null
 },
 "2573079": {
 "name": "Carson Wentz",
@@ -251,6 +263,10 @@
 "name": "Danielle Hunter",
 "pos": null
 },
+"2976592": {
+"name": "Sterling Shepard",
+"pos": "WR"
+},
 "2977187": {
 "name": "Cooper Kupp",
 "pos": "WR"
@@ -261,6 +277,10 @@
 },
 "2977680": {
 "name": "Bradley Pinion",
+"pos": null
+},
+"2978313": {
+"name": "Shaq Thompson",
 "pos": null
 },
 "2978524": {
@@ -314,6 +334,10 @@
 "3042519": {
 "name": "Aaron Jones",
 "pos": "RB"
+},
+"3042717": {
+"name": "Tre'Davious White",
+"pos": null
 },
 "3043078": {
 "name": "Derrick Henry",
@@ -635,6 +659,10 @@
 "name": "Deshaun Watson",
 "pos": "QB"
 },
+"3123076": {
+"name": "David Njoku",
+"pos": "TE"
+},
 "3123954": {
 "name": "Brian O'Neill",
 "pos": null
@@ -683,6 +711,10 @@
 "name": "Budda Baker",
 "pos": null
 },
+"3127294": {
+"name": "Greg Gaines",
+"pos": null
+},
 "3127310": {
 "name": "Drew Sample",
 "pos": "TE"
@@ -714,6 +746,10 @@
 "3134316": {
 "name": "Matt Dickerson",
 "pos": null
+},
+"3134353": {
+"name": "Tim Patrick",
+"pos": "WR"
 },
 "3134362": {
 "name": "Vita Vea",
@@ -774,6 +810,10 @@
 "3843843": {
 "name": "Arden Key",
 "pos": null
+},
+"3843945": {
+"name": "Foster Moreau",
+"pos": "TE"
 },
 "3858271": {
 "name": "Ashtyn Davis",
@@ -959,6 +999,10 @@
 "name": "Joe Giles-Harris",
 "pos": null
 },
+"3917853": {
+"name": "Mike Jackson",
+"pos": null
+},
 "3917914": {
 "name": "Olamide Zaccheaus",
 "pos": "WR"
@@ -1115,6 +1159,14 @@
 "name": "Sam Kamara",
 "pos": null
 },
+"4034530": {
+"name": "Chris Williams",
+"pos": null
+},
+"4034729": {
+"name": "Tucker Addington",
+"pos": null
+},
 "4034779": {
 "name": "Ko Kieft",
 "pos": "TE"
@@ -1185,6 +1237,10 @@
 },
 "4035537": {
 "name": "Kene Nwangwu",
+"pos": "RB"
+},
+"4035538": {
+"name": "David Montgomery",
 "pos": "RB"
 },
 "4035656": {
@@ -1281,6 +1337,10 @@
 },
 "4036651": {
 "name": "Kindle Vildor",
+"pos": null
+},
+"4036660": {
+"name": "Darrell Baker Jr.",
 "pos": null
 },
 "4037235": {
@@ -1515,6 +1575,10 @@
 "name": "John Bates",
 "pos": "TE"
 },
+"4050373": {
+"name": "Quez Watkins",
+"pos": "WR"
+},
 "4058825": {
 "name": "Grover Stewart",
 "pos": null
@@ -1601,6 +1665,10 @@
 },
 "4240401": {
 "name": "Ifeatu Melifonwu",
+"pos": null
+},
+"4240456": {
+"name": "Michael Carter II",
 "pos": null
 },
 "4240459": {
@@ -1754,6 +1822,14 @@
 "4241470": {
 "name": "Xavier McKinney",
 "pos": null
+},
+"4241476": {
+"name": "Tyrell Shavers",
+"pos": "WR"
+},
+"4241478": {
+"name": "DeVonta Smith",
+"pos": "WR"
 },
 "4241555": {
 "name": "Elijah Mitchell",
@@ -1914,6 +1990,10 @@
 "4243331": {
 "name": "Cade Otton",
 "pos": "TE"
+},
+"4243371": {
+"name": "Riley Patterson",
+"pos": null
 },
 "4243493": {
 "name": "Keion White",
@@ -2139,8 +2219,16 @@
 "name": "Jonathan Owens",
 "pos": null
 },
+"4334215": {
+"name": "Jordan Mailata",
+"pos": null
+},
 "4334300": {
 "name": "Dennis Gardeck",
+"pos": null
+},
+"4334405": {
+"name": "Tavierre Thomas",
 "pos": null
 },
 "4360189": {
@@ -2171,12 +2259,24 @@
 "name": "Brayden Willis",
 "pos": "TE"
 },
+"4360307": {
+"name": "Derion Kendrick",
+"pos": null
+},
+"4360308": {
+"name": "KJ Henry",
+"pos": null
+},
 "4360310": {
 "name": "Trevor Lawrence",
 "pos": "QB"
 },
 "4360378": {
 "name": "Quan Martin",
+"pos": null
+},
+"4360383": {
+"name": "Kerby Joseph",
 "pos": null
 },
 "4360386": {
@@ -2263,6 +2363,10 @@
 "name": "Yasir Abdullah",
 "pos": null
 },
+"4360853": {
+"name": "Talanoa Hufanga",
+"pos": null
+},
 "4360935": {
 "name": "Terell Smith",
 "pos": null
@@ -2317,6 +2421,10 @@
 },
 "4361266": {
 "name": "Greg Newsome II",
+"pos": null
+},
+"4361272": {
+"name": "Eku Leota",
 "pos": null
 },
 "4361307": {
@@ -2419,6 +2527,10 @@
 "name": "Chamarri Conner",
 "pos": null
 },
+"4361985": {
+"name": "Christian Darrisaw",
+"pos": null
+},
 "4361988": {
 "name": "James Mitchell",
 "pos": "TE"
@@ -2427,8 +2539,16 @@
 "name": "Blake Whiteheart",
 "pos": "TE"
 },
+"4362081": {
+"name": "Cameron Dicker",
+"pos": null
+},
 "4362088": {
 "name": "DeMarvion Overshown",
+"pos": null
+},
+"4362094": {
+"name": "Joseph Ossai",
 "pos": null
 },
 "4362116": {
@@ -2650,6 +2770,10 @@
 "4372518": {
 "name": "Bobby Brown III",
 "pos": null
+},
+"4372519": {
+"name": "Jashaun Corbin",
+"pos": "RB"
 },
 "4372533": {
 "name": "Tyree Wilson",
@@ -2923,6 +3047,10 @@
 "name": "Keeanu Benton",
 "pos": null
 },
+"4426698": {
+"name": "Tatum Bethune",
+"pos": null
+},
 "4426817": {
 "name": "Jarvis Brownlee Jr.",
 "pos": null
@@ -2966,6 +3094,10 @@
 "4427250": {
 "name": "Sauce Gardner",
 "pos": null
+},
+"4427278": {
+"name": "Xavier Gipson",
+"pos": "WR"
 },
 "4427325": {
 "name": "Renardo Green",
@@ -3275,12 +3407,20 @@
 "name": "Anthony Gould",
 "pos": "WR"
 },
+"4429731": {
+"name": "Gabe Hall",
+"pos": null
+},
 "4429767": {
 "name": "Emmanuel Forbes Jr.",
 "pos": null
 },
 "4429775": {
 "name": "Zach Frazier",
+"pos": null
+},
+"4429782": {
+"name": "Josh Fryar",
 "pos": null
 },
 "4429795": {
@@ -3515,6 +3655,10 @@
 "name": "Savion Williams",
 "pos": "WR"
 },
+"4431492": {
+"name": "Roman Wilson",
+"pos": "WR"
+},
 "4431517": {
 "name": "Calen Bullock",
 "pos": null
@@ -3534,6 +3678,10 @@
 "4431533": {
 "name": "Gabriel Rubio",
 "pos": null
+},
+"4431545": {
+"name": "Will Shipley",
+"pos": "RB"
 },
 "4431551": {
 "name": "Lee Hunter",
@@ -3795,12 +3943,20 @@
 "name": "Ty'Ron Hopper",
 "pos": null
 },
+"4567416": {
+"name": "Ja'Markis Weston",
+"pos": null
+},
 "4567462": {
 "name": "Ja'Quan McMillian",
 "pos": null
 },
 "4567480": {
 "name": "Damarion Williams",
+"pos": null
+},
+"4567535": {
+"name": "Anfernee Orji",
 "pos": null
 },
 "4567750": {
@@ -3813,6 +3969,10 @@
 },
 "4567962": {
 "name": "Jermaine Johnson II",
+"pos": null
+},
+"4567979": {
+"name": "Brandin Echols",
 "pos": null
 },
 "4568007": {
@@ -3850,6 +4010,10 @@
 "4569382": {
 "name": "Jordan Whittington",
 "pos": "WR"
+},
+"4569448": {
+"name": "Jordan Jefferson",
+"pos": null
 },
 "4569465": {
 "name": "Jack Campbell",
@@ -3919,6 +4083,14 @@
 "name": "Marcus Harris",
 "pos": null
 },
+"4570470": {
+"name": "Nahshon Wright",
+"pos": null
+},
+"4570546": {
+"name": "Swayze Bozeman",
+"pos": null
+},
 "4571162": {
 "name": "Jalyx Hunt",
 "pos": null
@@ -3955,6 +4127,10 @@
 "name": "Branson Combs",
 "pos": null
 },
+"4573152": {
+"name": "Marcus Harris",
+"pos": null
+},
 "4573318": {
 "name": "Dorian Mausi",
 "pos": null
@@ -3982,6 +4158,10 @@
 "4574689": {
 "name": "Trey Amos",
 "pos": null
+},
+"4575131": {
+"name": "Jacory Croskey-Merritt",
+"pos": "RB"
 },
 "4575431": {
 "name": "Devon Witherspoon",
@@ -4026,6 +4206,10 @@
 "4590292": {
 "name": "Thomas Fidone II",
 "pos": "TE"
+},
+"4594277": {
+"name": "Jaylin Smith",
+"pos": null
 },
 "4594321": {
 "name": "Kaleb Elarms-Orr",
@@ -4166,6 +4350,10 @@
 "4608138": {
 "name": "Quinn Meinerz",
 "pos": null
+},
+"4608686": {
+"name": "Kyle Monangai",
+"pos": "RB"
 },
 "4608810": {
 "name": "Tez Johnson",
@@ -4523,6 +4711,10 @@
 "name": "Quinyon Mitchell",
 "pos": null
 },
+"4686308": {
+"name": "C.J. West",
+"pos": null
+},
 "4686334": {
 "name": "Yaya Diaby",
 "pos": null
@@ -4683,6 +4875,10 @@
 "name": "Shaun Dolac",
 "pos": null
 },
+"4694237": {
+"name": "Max Hurleman",
+"pos": "WR"
+},
 "4694334": {
 "name": "Keyon Martin",
 "pos": null
@@ -4707,6 +4903,10 @@
 "name": "Isaiah Davis",
 "pos": "RB"
 },
+"4695705": {
+"name": "Marlin Klein",
+"pos": "TE"
+},
 "4695783": {
 "name": "Myles Harden",
 "pos": null
@@ -4730,6 +4930,10 @@
 "4696782": {
 "name": "Elijah Williams",
 "pos": null
+},
+"4696882": {
+"name": "Devontez Walker",
+"pos": "WR"
 },
 "4696981": {
 "name": "Cam Skattebo",
@@ -4823,6 +5027,10 @@
 "name": "Malachi Lawrence",
 "pos": null
 },
+"4710422": {
+"name": "Ahmed Hassanein",
+"pos": null
+},
 "4710706": {
 "name": "Jadon Canady",
 "pos": null
@@ -4899,6 +5107,10 @@
 "name": "Isaiah Bond",
 "pos": "WR"
 },
+"4816107": {
+"name": "Benjamin Morrison",
+"pos": null
+},
 "4819231": {
 "name": "Kaleb Johnson",
 "pos": "RB"
@@ -4953,6 +5165,10 @@
 },
 "4837286": {
 "name": "Wade Woodaz",
+"pos": null
+},
+"4837388": {
+"name": "VJ Payne",
 "pos": null
 },
 "4838693": {
@@ -5075,6 +5291,10 @@
 "name": "Karene Reid",
 "pos": null
 },
+"4875381": {
+"name": "Jordan van den Berg",
+"pos": null
+},
 "4875564": {
 "name": "Bo Richter",
 "pos": null
@@ -5086,6 +5306,10 @@
 "4876006": {
 "name": "Zaire Mitchell-Paden",
 "pos": "TE"
+},
+"4876013": {
+"name": "Jack Browning",
+"pos": null
 },
 "4876017": {
 "name": "Carson Schwesinger",
@@ -5101,6 +5325,10 @@
 },
 "4876380": {
 "name": "Jack Kelly",
+"pos": null
+},
+"4876658": {
+"name": "Travis Burke",
 "pos": null
 },
 "4877652": {
@@ -5263,6 +5491,10 @@
 "name": "Brandon Cisse",
 "pos": null
 },
+"5076951": {
+"name": "Jalon Kilgore",
+"pos": null
+},
 "5081338": {
 "name": "Kaden Wetjen",
 "pos": "WR"
@@ -5291,6 +5523,10 @@
 "name": "R Mason Thomas",
 "pos": null
 },
+"5081999": {
+"name": "CJ Donaldson",
+"pos": "RB"
+},
 "5082331": {
 "name": "Avery Smith",
 "pos": null
@@ -5301,6 +5537,10 @@
 },
 "5082397": {
 "name": "Jacob Thomas",
+"pos": null
+},
+"5082424": {
+"name": "Dominic Zvada",
 "pos": null
 },
 "5082630": {
@@ -5359,6 +5599,10 @@
 "name": "Jamaree Caldwell",
 "pos": null
 },
+"5092508": {
+"name": "Colbie Young",
+"pos": "WR"
+},
 "5093004": {
 "name": "Keith Abney II",
 "pos": null
@@ -5383,6 +5627,10 @@
 "name": "Kameron Johnson",
 "pos": "WR"
 },
+"5099542": {
+"name": "Wydett Williams Jr.",
+"pos": null
+},
 "5103940": {
 "name": "Skyler Gill-Howard",
 "pos": null
@@ -5405,6 +5653,10 @@
 },
 "5144894": {
 "name": "Trevor Nowaske",
+"pos": null
+},
+"5144942": {
+"name": "CJ Okoye",
 "pos": null
 },
 "5150247": {
@@ -5431,6 +5683,10 @@
 "name": "Jacob De Jesus",
 "pos": "WR"
 },
+"5155825": {
+"name": "Carter Runyon",
+"pos": "TE"
+},
 "5157289": {
 "name": "Jermod McCoy",
 "pos": null
@@ -5449,6 +5705,10 @@
 },
 "5208977": {
 "name": "Qwan'tez Stiggers",
+"pos": null
+},
+"5211114": {
+"name": "David Olajiga",
 "pos": null
 },
 "5216101": {
